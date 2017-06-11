@@ -4,3 +4,6 @@ https://www.youtube.com/watch?v=J_Clau1bYco
 
 
 https://guides.github.com/activities/hello-world/
+
+Learn Git from here as well
+https://try.github.io/levels/1/challenges/1
